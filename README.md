@@ -13,3 +13,10 @@ I decided to make a Hackintosh using OpenCore instead of Clover. A lot of the ot
 * Bluetooth ❌
 * Sleep Mode ❌
 * You tell me the rest.
+
+# Preparation.
+You need.
+* (Atleast) 4 GB USB.
+* Computer running Windows, Mac OS or Linux.
+
+# Installation.
