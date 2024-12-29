@@ -38,3 +38,35 @@ I decided to make a Hackintosh using OpenCore instead of Clover. A lot of the ot
 * Mac OS/Linux
 
   Sorry, there is no tutorial for Mac OS and Linux.
+
+## Formating USBs with larger storage sizes.
+* Windows
+
+We will be using a free piece of software called Rufus which you can download at <a href="https://rufus.ie" target="_blank">https://rufus.ie.</a>
+
+1.) Run the program and plug in your USB.
+
+2.) Make sure that Rufus is set like this.
+
+### Device Properties
+
+* Device is your USB.
+* Boot selection is non bootable.
+* Partition scheme is GPT.
+
+### Format Options
+
+* Volume label is EFI (case sensitive).
+* File system is Large FAT32.
+
+![Screenshot 2024-12-29 005908](https://github.com/user-attachments/assets/d5ea7fd6-239d-47f7-9be2-430e279990d9)
+
+3.) Click on START and then OK. (NOTE) This will erase all data on the USB!
+
+* Mac OS/Linux
+
+  Sorry, there is no tutorial for Mac OS and Linux.
+
+## Getting the Mac OS installer.
+
+1.) Download the 
