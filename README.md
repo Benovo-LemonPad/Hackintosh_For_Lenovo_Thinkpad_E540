@@ -1,5 +1,5 @@
 # Mac OS Monterey Hackintosh for Lenovo Thinkpad E540.
-I decided to make a Hackintosh using OpenCore instead of Clover. A lot of the other ones on Github used outdated versions of Mac OS while this one uses the latest version of Mac OS supported by this processor.
+I decided to make a Hackintosh using OpenCore instead of Clover. -A lot of the other ones on Github used outdated versions of Mac OS while this one uses the latest version of Mac OS supported by this processor.-
 
 # What works.
 * Trackpad ✔
