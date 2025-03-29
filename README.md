@@ -69,7 +69,7 @@ We will be using a free piece of software called Rufus which you can download at
 
 ## Getting the Mac OS installer.
 
-* Windows
+* Windows, Mac OS and Linux
 
   1.) Download the "EFI.and.Mac.OS.Monterey.zip" from the releases page.
 
@@ -77,9 +77,6 @@ We will be using a free piece of software called Rufus which you can download at
 
   3.) Inside of the extracted folder there should be two folders called com.apple.recovery.boot and EFI. Copy these two folders to the USB.
 
-* Mac OS/Linux
-
-  Same steps for Windows.
 
 ## Changing BIOS Settings.
 
