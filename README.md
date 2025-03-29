@@ -15,7 +15,7 @@ I decided to make a Hackintosh using OpenCore instead of Clover since all the on
 * You tell me the rest.
 
 # Preparation.
-## You need.
+## You'll need.
 * (Atleast) 4 GB USB.
 * Computer running Windows, Mac OS or Linux.
 
